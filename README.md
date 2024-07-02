@@ -3,7 +3,7 @@
 
 ### 1 环境安装
 #### 1.1 下载并安装Anaconda3:
-miniconda3是一个方便的python版本管理工具，如果你已经有了习惯的python版本管理工具，可以不装。推荐 https://docs.anaconda.com/miniconda 官网下下载适合您系统的Anaconda3安装包,并按照官网提示提示进行安装。
+miniconda3是一个方便的python版本管理工具，如果你已经有了习惯的python版本管理工具，可以不装。推荐 https://docs.anaconda.com/miniconda 官网下下载适合您系统的Miniconda3安装包,并按照官网提示提示进行安装。
 #### 1.2 创建并激活Python 3.11环境:
 ```shell
 conda create -n sdtdata python=3.11
