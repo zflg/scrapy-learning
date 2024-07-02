@@ -29,6 +29,7 @@ scrapy crawl sdtdata_fx
 
 ### 3 项目结构
 项目结构遵循标准的scarpy项目结构，如下所示：
+```dtd
 sdtdata/
 ├── sdtdata/
 │   ├── __init__.py
@@ -44,4 +45,6 @@ sdtdata/
 .gitignore:
 README.md:                      //项目说明文档
 requirements.txt:               //项目依赖库清单
+```
+
 
